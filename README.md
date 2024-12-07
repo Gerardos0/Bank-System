@@ -1,7 +1,7 @@
 # Bank System
 
 ## Overview
-This project is a Bank System developed for a project in Advanced Object-Oriented Programming. The system interacts with customers and managers to perform various banking operations.
+This project is a Bank System developed for a project in Advanced Object-Oriented Programming with my partner Hannah Ayala. The system interacts with customers and managers to perform various banking operations.
 
 ---
 
